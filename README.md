@@ -1,4 +1,4 @@
-# IBM Data Analyst Professional Certificate 
+# IBM Data Analyst Professional Certificate <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
 Welcome to my portfolio repository for the **[IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst)** from Coursera.  
 This course provided me with hands-on experience in data analysis, including working with **Excel**, **SQL**, **Python**, and data visualization tools.  
