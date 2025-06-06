@@ -41,13 +41,6 @@ Topics covered:
 
 ---
 
-## 🏅 Certificates
-
-All certificates of completion can be found in the [`certificates`](./certificates) folder.  
-Each one confirms successful completion of the course modules through hands-on labs and assessments.
-
----
-
 ## 🛠️ Tools & Technologies
 
 - **Excel**: data cleaning, pivot tables, dashboards
