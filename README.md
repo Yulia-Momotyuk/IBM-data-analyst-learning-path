@@ -59,7 +59,7 @@ To build a strong foundation in data analysis and create a project portfolio for
 
 ## 📬 Contact
 
-[LinkedIn](http://linkedin.com/in/yulia-kononchuk) | [Email](mailo:kononchuk.yuliia@gmail.com)
+[LinkedIn](http://linkedin.com/in/yulia-kononchuk) | [Email](mailto:kononchuk.yuliia@gmail.com)
 
 ---
 > **Author**: _Yuliia Kononchuk_  
