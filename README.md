@@ -62,5 +62,5 @@ To build a strong foundation in data analysis and create a project portfolio for
 [LinkedIn](http://linkedin.com/in/yulia-kononchuk) | [Email](mailo:kononchuk.yuliia@gmail.com)
 
 ---
-
 > **Author**: _Yuliia Kononchuk_  
+> _This repository is part of my personal learning journey and professional portfolio._ 
