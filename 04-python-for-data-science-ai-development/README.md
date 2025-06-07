@@ -23,28 +23,28 @@ Covered Topics:
 - Dictionaries
 
 ### 📙 Module 3: Python Programming Fundamentals
-Developed understanding of core programming concepts in Python to create logical and reusable code.
+Developed understanding of core programming concepts in Python to create logical and reusable code.  
 Covered Topics:
-	•	Conditional statements and branching
-	•	Loops (for, while)
-	•	Functions (definition and usage)
-	•	Object-oriented programming basics (Objects and Classes)
+- Conditional statements and branching
+- Loops (for, while)
+- Functions (definition and usage)
+- Object-oriented programming basics (Objects and Classes)
 
 ### 📒 Module 4: Working with Data in Python
-Learned how to work with files and handle structured data using essential Python libraries.
+Learned how to work with files and handle structured data using essential Python libraries.  
 Covered Topics:
-	•	Reading data from files using open()
-	•	Writing data to files
-	•	Loading and manipulating datasets with Pandas
-	•	Numerical operations with NumPy
+- Reading data from files using open()
+- Writing data to files
+- Loading and manipulating datasets with Pandas
+- Numerical operations with NumPy
  
  ### 📕 Module 5: APIs and Data Collection
-Gained experience in acquiring external data using web scraping and APIs.
+Gained experience in acquiring external data using web scraping and APIs.  
 Covered Topics:
-	•	Understanding and using simple APIs
-	•	REST APIs and handling HTTP requests
-	•	Introduction to HTML for scraping
-	•	Web scraping using BeautifulSoup
+- Understanding and using simple APIs
+- REST APIs and handling HTTP requests
+- Introduction to HTML for scraping
+- Web scraping using BeautifulSoup
 
 ___
 
