@@ -4,9 +4,18 @@
 
 ## About this Course
 
-**The purpose of this course** is to introduce relational database concepts and help you learn and apply foundational knowledge of the SQL language. It is also intended to get you started with performing SQL access in a data science environment.  
+The purpose of this course was to introduce **relational database concepts**  
+and apply foundational knowledge of the **SQL language** in a data science context.  
 
-**The emphasis in this course** is on hands-on and practical learning . As such, you will work with real databases, real data science tools, and real-world datasets. You will create a database instance in the cloud. Through a series of hands-on labs you will practice building and running SQL queries. You will also learn how to access databases from Jupyter notebooks using SQL and Python.
+The course focused on **hands-on, practical learning** by working with:
+- Real databases  
+- Real-world datasets  
+- Real data science tools  
+
+Throughout the course, I:
+- Created a database instance in the **cloud**
+- Built and ran **SQL queries** using real data
+- Learned how to access databases from **Jupyter Notebooks** using **SQL and Python**
 
 ## Final Course Assignment
 This folder contains data files and a Jupyter Notebook script that demonstrates use of a variety of SQL commands to query the three datasets.  
