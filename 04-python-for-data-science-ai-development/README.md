@@ -8,7 +8,7 @@ In this course, I gained essential programming skills in Python, specifically fo
 ## Modules
 
 ### 📗 Module 1: Python Basics
-Learned fundamental concepts of Python programming, including working with different data types and writing the first Python scripts.
+Learned fundamental concepts of Python programming, including working with different data types and writing the first Python scripts.  
 Covered Topics:
 - Writing your first Python program. 
 - Data types: integers, floats, strings.
@@ -16,11 +16,11 @@ Covered Topics:
 - String operations
 
 ### 📘 Module 2: Python Data Structures
-Explored how to organize and manage collections of data using built-in Python data structures.
+Explored how to organize and manage collections of data using built-in Python data structures.  
 Covered Topics:
-	•	Lists and tuples
-	•	Sets
-	•	Dictionaries
+- Lists and tuples
+- Sets
+- Dictionaries
 
 ### 📙 Module 3: Python Programming Fundamentals
 Developed understanding of core programming concepts in Python to create logical and reusable code.
