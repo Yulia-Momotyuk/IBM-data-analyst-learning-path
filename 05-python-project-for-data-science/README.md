@@ -25,7 +25,8 @@ pip install requests
 ---
 - [x] **Extracting Stock Data Using a Python Library**
 
-In this lab, you will use a Python library to obtain financial data. You will extract historical stock data using yfinance. A graded quiz will follow to test you on the results in the lab.
+In this lab, I used the yfinance Python library to obtain historical stock data.
+This was followed by a graded quiz to test the results.
 
 * **Environment Setup**
 ```python
@@ -35,7 +36,8 @@ In this lab, you will use a Python library to obtain financial data. You will ex
 ---
 - [x] **Extracting Stock Data Using Web Scraping**
 
-In this lab you will use web scraping to obtain financial data. You will extract historical stock data from a web-page using beautiful soup. A graded quiz follows to test you on the results in this lab.
+In this lab, I applied web scraping techniques to obtain financial data from a web page using BeautifulSoup.
+A graded quiz followed to validate the extraction process.
 
 * **Environment Setup**
 ```python
@@ -47,7 +49,8 @@ In this lab you will use web scraping to obtain financial data. You will extract
 ---
 - [x] **Analyzing Historical Stock/Revenue Data and Building a Dashboard**
 
-Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make correct decisions based on the data. In this assignment, you will extract some stock data, you will then display this data in a graph.
+In this assignment, I extracted and visualized stock data in the form of interactive graphs.
+This allowed for better decision-making based on identified data trends.
 
 * **Environment Setup**
 ```python
