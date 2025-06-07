@@ -6,16 +6,14 @@
 In this course, I gained essential programming skills in Python, specifically for data science applications. I studied Python basics, including variables, data types, expressions, and string operations. I worked with data structures such as lists, tuples, sets, and dictionaries, and learned to write functions and use loops and conditionals.
 
 ## Modules
+
 ### 📗 Module 1: Python Basics
 Learned fundamental concepts of Python programming, including working with different data types and writing the first Python scripts.
-- Wrote first Python programs
-- Learned about types: integers, floats, strings
-- Used variables, expressions, and string operations
 Covered Topics:
-	•	Writing your first Python program. 
-	•	Data types: integers, floats, strings.
-	•	Expressions and variables.   
-	•	String operations
+- Writing your first Python program. 
+- Data types: integers, floats, strings.
+- Expressions and variables.   
+- String operations
 
 ### 📘 Module 2: Python Data Structures
 Explored how to organize and manage collections of data using built-in Python data structures.
