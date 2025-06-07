@@ -32,7 +32,7 @@ Topics covered:
 | 01  | [Introduction to Data Analytics](./01-introduction-to-data-analytics)                           | ✅ Completed |
 | 02  | [Excel Basics for Data Analysis](./02-excel-basics-for-data-analysis)                           | ✅ Completed |
 | 03  | [Data Visualization and Dashboards with Excel and Cognos](./03-visualization-and-dashboards-with-excel-and-cognos)                  | ✅ Completed |
-| 04  | [Python for Data Science, AI & Development](./04-python-for-data-science)                       | ✅ Completed |
+| 04  | [Python for Data Science, AI & Development](./04-python-for-data-science)                     | ✅ Completed |
 | 05  | [Python Project for Data Science](./05-python-project)                                          | ✅ Completed |
 | 06  | [Databases and SQL for Data Science with Python](./06-databases-and-sql-with-python)            | ✅ Completed |
 | 07  | [Data Analysis with Python](./07-data-analysis-with-python)                                     | ✅ Completed |
