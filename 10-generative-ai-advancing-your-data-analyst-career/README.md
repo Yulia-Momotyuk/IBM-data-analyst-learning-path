@@ -3,6 +3,8 @@
 # Generative AI: Advancing Your Data Analyst Career
 
 ## About this Course
-Этот комплексный курс раскрывает потенциал Generative AI в аналитике данных. Курс предоставит Вам глубокие знания о фундаментальных концепциях, моделях, инструментах и приложениях Generative AI в области аналитики данных. 
+In this course, I explored the potential of Generative AI in the field of data analytics. I gained a solid understanding of the core concepts, models, tools, and real-world applications of Generative AI for data-driven insights.
 
-В рамках этого курса Вы изучите реальные приложения и используете Generative AI для получения информации о данных, используя такие техники, как Prompt, визуализация, рассказывание историй, Query и т.д. Кроме того, Вы поймете этические последствия, соображения и проблемы использования Generative AI в аналитике данных в различных отраслях. Вы получите практический опыт в ходе практических занятий, где Вы будете использовать модели Generative AI и такие инструменты, как ChatGPT, ChatCSV, Mostly.AI, SQLthroughAI и т.д. Наконец, Вы примените концепции, изученные в ходе курса, в проекте по аналитике данных. Кроме того, у Вас будет возможность проверить свои знания с помощью практики и зачетных тестов и получить сертификат. 
+I practiced techniques such as prompt engineering, data storytelling, visualization, and natural language querying. I also learned to apply ethical considerations when using Generative AI in various industries. Throughout the hands-on labs, I worked with tools like ChatGPT, ChatCSV, Mostly.AI, and SQLthroughAI to generate and analyze data.
+
+The course concluded with a practical data analytics project, where I applied the learned concepts and tools to solve a real-world problem using Generative AI. I also completed quizzes and assessments to validate my skills and earned a certification upon completion.
