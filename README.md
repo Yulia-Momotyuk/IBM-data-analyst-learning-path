@@ -33,7 +33,7 @@ Topics covered:
 | 02  | [Excel Basics for Data Analysis](./02-excel-basics-for-data-analysis)                           | ✅ Completed |
 | 03  | [Data Visualization and Dashboards with Excel and Cognos](./03-visualization-and-dashboards-with-excel-and-cognos)                  | ✅ Completed |
 | 04  | [Python for Data Science, AI & Development](./04-python-for-data-science)                     | ✅ Completed |
-| 05  | [Python Project for Data Science](./05-python-project)                                          | ✅ Completed |
+| 05  | [Python Project for Data Science](./05-python-project-for-data-science)                                                             | ✅ Completed |
 | 06  | [Databases and SQL for Data Science with Python](./06-databases-and-sql-with-python)            | ✅ Completed |
 | 07  | [Data Analysis with Python](./07-data-analysis-with-python)                                     | ✅ Completed |
 | 08  | [Data Visualization with Python](./08-data-visualization-with-python)                           | ✅ Completed |
@@ -46,7 +46,7 @@ Topics covered:
 ## 🛠️ Tools & Technologies
 
 - **Excel**: data cleaning, pivot tables, dashboards
-- **SQL (IBM DB2)**: querying databases, joins, filtering, aggregations
+- **SQL**: querying databases, joins, filtering, aggregations
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn
 - **Jupyter Notebooks**
 - **Data storytelling** and communication of insights
