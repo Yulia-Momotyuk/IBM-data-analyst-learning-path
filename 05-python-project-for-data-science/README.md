@@ -12,9 +12,9 @@ The stocks I analyzed included **Tesla, Amazon, AMD**, and **GameStop**.
 
 ---
 
-### 🏗️ Course Structure
+### Course Structure
 
- [x] **Intro to Web Scraping Using BeautifulSoup**  
+ - **Intro to Web Scraping Using BeautifulSoup**  
 In this lab, I learned how to use `BeautifulSoup` to extract data from HTML tables into a DataFrame.  
 
 **Environment Setup:**
