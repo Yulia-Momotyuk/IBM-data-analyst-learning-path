@@ -3,9 +3,9 @@
 # Data Visualization with Python
 
 ## About this Course
-One of the key skills of a data scientist is the ability to tell a compelling story, visualizing data and findings in an approachable and stimulating way. Learning how to leverage a software tool to visualize data will also enable you to extract information, better understand the data, and make more effective decisions.  
+One of the key skills I developed as a data analyst was the ability to tell a compelling story by visualizing data and findings in an approachable and meaningful way. I learned how to use software tools to extract insights, better understand data, and support more effective decision-making.
 
-The main goal of this Data Visualization with Python course is to teach you how to take data that at first glance has little meaning and present that data in a form that makes sense to people. Various techniques have been developed for presenting data visually but in this course, we will be using several data visualization libraries in Python, namely Matplotlib, Seaborn, and Folium.
+The main goal of the Data Visualization with Python course was to teach how to transform raw data into clear and informative visualizations. During the course, I worked with several Python libraries, including Matplotlib, Seaborn, and Folium, to create charts, plots, and interactive maps that made complex data easier to interpret.
 
 ---
 ### Modules
