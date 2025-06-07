@@ -9,9 +9,9 @@ In this course, I gained essential programming skills in Python, specifically fo
 ### 📗 Module 1: Python Basics
 Learned fundamental concepts of Python programming, including working with different data types and writing the first Python scripts.
 Covered Topics:
-	•	Writing your first Python program
-	•	Data types: integers, floats, strings
-	•	Expressions and variables
+	•	Writing your first Python program. 
+	•	Data types: integers, floats, strings. 
+	•	Expressions and variables. 
 	•	String operations
 
 ### 📘 Module 2: Python Data Structures
