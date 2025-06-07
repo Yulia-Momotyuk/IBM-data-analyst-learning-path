@@ -26,8 +26,10 @@ Using these features, I performed **data analysis and built predictive models** 
 - Techniques used included **data exploration, visualization**, and **machine learning** for regression-based prediction  
 
 #### Dataset Used in this Assignment
-The dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015. This dataset is taken from Kaggle. It was also slightly modified for the purposes of this course.
+The dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015. This dataset is taken from Kaggle. It was also slightly modified for the purposes of this course.  
+
 ---
+
 ## House Sales in King Count USA Final Assignment
 
 ### Modules
