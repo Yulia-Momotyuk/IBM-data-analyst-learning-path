@@ -2,7 +2,7 @@
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/Yulia-Momotyuk)
 # Python Project for Data Science
 
-## About this Course
+## About this Project
 For this project, I assumed the role of a **Data Scientist / Data Analyst** working for a new startup investment firm  that helps customers invest their money in stocks.  
 My task was to extract financial data like **historical share prices** and **quarterly revenue reports** from various sources  
 using Python libraries and web scraping techniques.  
