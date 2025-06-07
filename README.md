@@ -29,17 +29,17 @@ Topics covered:
 
 | #   | Course                                                                                           | Status       |
 |-----|--------------------------------------------------------------------------------------------------|--------------|
-| 01  | [Introduction to Data Analytics](./01-introduction-to-data-analytics)                           | ✅ Completed |
-| 02  | [Excel Basics for Data Analysis](./02-excel-basics-for-data-analysis)                           | ✅ Completed |
-| 03  | [Data Visualization and Dashboards with Excel and Cognos](./03-visualization-and-dashboards-with-excel-and-cognos)                  | ✅ Completed |
-| 04  | [Python for Data Science, AI & Development](./04-python-for-data-science)                     | ✅ Completed |
-| 05  | [Python Project for Data Science](./05-python-project-for-data-science)                                                             | ✅ Completed |
-| 06  | [Databases and SQL for Data Science with Python](./06-databases-and-sql-with-python)            | ✅ Completed |
-| 07  | [Data Analysis with Python](./07-data-analysis-with-python)                                     | ✅ Completed |
-| 08  | [Data Visualization with Python](./08-data-visualization-with-python)                           | ✅ Completed |
-| 09  | [IBM Data Analyst Capstone Project](./09-capstone-project)                                      | ✅ Completed |
-| 10  | [Generative AI: Enhance your Data Analytics Career](./10-generative-ai-for-analytics)           | ✅ Completed |
-| 11  | [Data Analyst Career Guide and Interview Preparation](./11-career-guide-and-interview-prep)     | ✅ Completed |
+| 01  | [Introduction to Data Analytics](./01-introduction-to-data-analytics)                            | ✅ Completed |
+| 02  | [Excel Basics for Data Analysis](./02-excel-basics-for-data-analysis)                            | ✅ Completed |
+| 03  | [Data Visualization and Dashboards with Excel and Cognos](./03-visualization-and-dashboards-with-excel-and-cognos)              | ✅ Completed |
+| 04  | [Python for Data Science, AI & Development](./04-python-for-data-science-ai-development)  | ✅ Completed |
+| 05  | [Python Project for Data Science](./05-python-project-for-data-science)                 | ✅ Completed |
+| 06  | [Databases and SQL for Data Science with Python](./06-databases-and-sql-for-data-science-with-python)                                | ✅ Completed |
+| 07  | [Data Analysis with Python](./07-data-analysis-with-python)                                 | ✅ Completed |
+| 08  | [Data Visualization with Python](./08-data-visualization-with-python)                            | ✅ Completed |
+| 09  | [IBM Data Analyst Capstone Project](./09-capstone-project-data-analyst)                 | ✅ Completed |
+| 10  | [Generative AI: Enhance your Data Analytics Career](./10-generative-ai-advancing-your-data-analyst-career)                           | ✅ Completed |
+| 11  | [Data Analyst Career Guide and Interview Preparation](./11-data-analyst-career-guide-interview-prep)                              | ✅ Completed |
 
 ---
 
