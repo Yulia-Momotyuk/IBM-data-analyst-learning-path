@@ -33,13 +33,13 @@ Topics covered:
 | 02  | [Excel Basics for Data Analysis](./02-Excel%20Basics%20for%20Data%20Analysis)                            | ✅ Completed |
 | 03  | [Data Visualization and Dashboards with Excel and Cognos](./03-Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)              | ✅ Completed |
 | 04  | [Python for Data Science, AI & Development](./04-Python%20for%20Data%20Science%20AI%20&%20Development)  | ✅ Completed |
-| 05  | [Python Project for Data Science](./05-python-project-for-data-science)                 | ✅ Completed |
-| 06  | [Databases and SQL for Data Science with Python](./06-databases-and-sql-for-data-science-with-python)                                | ✅ Completed |
-| 07  | [Data Analysis with Python](./07-data-analysis-with-python)                                 | ✅ Completed |
-| 08  | [Data Visualization with Python](./08-data-visualization-with-python)                            | ✅ Completed |
-| 09  | [IBM Data Analyst Capstone Project](./09-capstone-project-data-analyst)                 | ✅ Completed |
-| 10  | [Generative AI: Enhance your Data Analytics Career](./10-generative-ai-advancing-your-data-analyst-career)                           | ✅ Completed |
-| 11  | [Data Analyst Career Guide and Interview Preparation](./11-data-analyst-career-guide-interview-prep)                              | ✅ Completed |
+| 05  | [Python Project for Data Science](./05-Python%20Project%20for%20Data%20Science)                 | ✅ Completed |
+| 06  | [Databases and SQL for Data Science with Python](./06-Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)                                | ✅ Completed |
+| 07  | [Data Analysis with Python](./07-Data%20Analysis%20with%20Python)                                 | ✅ Completed |
+| 08  | [Data Visualization with Python](./08-Data%20Visualization%20with%20Python)                            | ✅ Completed |
+| 09  | [IBM Data Analyst Capstone Project](./09-IBM%20Data%20Analyst%20Capstone%20Project)                 | ✅ Completed |
+| 10  | [Generative AI: Enhance your Data Analytics Career](./10-Generative%20AI%20Enhance%20your%20Data%20Analyst%20Career)                           | ✅ Completed |
+| 11  | [Data Analyst Career Guide and Interview Preparation](./11-Data%20Analyst%20Career%20Guide%20Interview%20Preparation)                              | ✅ Completed |
 
 ---
 
